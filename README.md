@@ -1,1 +1,1 @@
-# pix2pix
+# GAN Project Pix2pix
